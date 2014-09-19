@@ -1,0 +1,30 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #faf3bc;
+  background: #420600 url('img/texture.png') repeat;
+}
+
+a {
+  color: #4fb69f;
+  text-decoration: none;
+}
+
+.btn {
+  color: #faf3bc;
+  background: #4fb69f url('img/texture.png') no-repeat;
+  border-radius: 25px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 15px 30px;
+  margin: 40px 0px;
+}
+.btn: hover{
+  background-color: # ;
+}
+
+#copyright {
+  border-top: 8px solid #2A0400;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
